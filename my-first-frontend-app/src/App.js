@@ -22,8 +22,6 @@
 import "./App.css";
 import React from "react";
 import proFilePic from "./assets/profile.png";
-import Profile from "./Modules/Profile";
-import FrontendMentor from "./Modules/FrontendMentor";
 import { useNavigate } from "react-router-dom";
 
 const HomePage = () => {
